@@ -136,6 +136,7 @@ td.tab, th.tab {
     text-align: center;
     border-radius: 2px;
     box-shadow: 1px 1px gray;
+    padding: 8px 4px;
 }
 
 td, th {
