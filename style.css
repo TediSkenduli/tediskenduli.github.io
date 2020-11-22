@@ -134,12 +134,20 @@ td.tab, th.tab {
     border-collapse: collapse;
     border: 1px solid gray;
     text-align: center;
+    border-radius: 2px;
+    box-shadow: 1px 1px gray;
 }
 
 td, th {
     /*border: 1px solid #dddddd;*/
     text-align: left;
     padding: 3px;
+}
+
+.languages {
+    width: 50%;
+    vertical-align: center;
+    margin: auto 0;
 }
 
 a {
